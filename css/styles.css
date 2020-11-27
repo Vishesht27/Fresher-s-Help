@@ -38,3 +38,8 @@ body{
 .yoyo{
     font-size: small;
 }
+h2.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
