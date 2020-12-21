@@ -1,4 +1,4 @@
-# Fresher's-Help
+# Fresher's-Resources
 ***
 # Have all the information regarding various competitive programming websites
 <img src="./Img/51.png">
