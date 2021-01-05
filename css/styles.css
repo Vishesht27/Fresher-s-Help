@@ -75,4 +75,11 @@ h2.blocktext {
     .modal-content .modal-footer {
       background: #9575CD;
       border-top: none; }
+
+    .snowflake {
+        color: #fff;
+        font-size: 1em;
+        font-family: Arial, sans-serif;
+        text-shadow: 0 0 5px #000;
+      } 
     
